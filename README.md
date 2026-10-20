@@ -1,275 +1,210 @@
-<!-- HEADER BANNER / HERO SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002244,40:005A9C,75:0071BC,100:00AEEF&height=210&section=header&text=LISTONE%20LUCKY%20OMITO&fontSize=34&fontColor=FFFFFF&font=Montserrat&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-  <h3 style="font-family: 'Fira Code', monospace; color: #00AEEF;">DATA ANALYST · ANALYTICS ENGINEER · BUSINESS INTELLIGENCE · DATA ENGINEERING</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002244,40:005A9C,75:0071BC,100:00AEEF&height=200&section=header&text=Listone%20Lucky%20Omito&fontSize=44&fontColor=FFFFFF&font=Montserrat&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Analytics%20Engineer%20%C2%B7%20BI%20%C2%B7%20Data%20Engineering&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-  <!-- DYNAMIC TYPING TEXT WITH BEAUTIFUL FONT -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00AEEF&center=true&vCenter=true&width=780&lines=Turning+Data+into+Decisions;Building+Analytics-Ready+Data+Systems;SQL+%7C+Python+%7C+Power+BI+%7C+Analytics+Engineering;Business+Intelligence+%7C+Risk+Analytics+%7C+Data+Engineering" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&pause=1200&color=00AEEF&center=true&vCenter=true&width=760&lines=Turning+Data+into+Decisions;Building+Analytics-Ready+Data+Systems;SQL+%7C+Python+%7C+Power+BI+%7C+dbt;Business+Intelligence+%7C+Risk+Analytics+%7C+Data+Engineering" alt="Typing intro"/>
+
+<br/><br/>
+
+<a href="mailto:omitolucky@gmail.com"><img src="https://img.shields.io/badge/EMAIL-002244?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://secure.plum.io/en/p/1PnFz0BpW33D6atqYPCPvg"><img src="https://img.shields.io/badge/PLUM-005A9C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Plum"/></a>
+<a href="https://linkedin.com/in/listone-lucky-omito-390854281"><img src="https://img.shields.io/badge/LINKEDIN-0071BC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/MasterLee433"><img src="https://img.shields.io/badge/GITHUB-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
 </div>
 
 <br/>
 
-<!-- HORIZONTAL CONNECT SECTION WITH PLUM EMAIL BADGE -->
 <div align="center">
-  <a href="mailto:omitolucky@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Plum?style=for-the-badge&logo=gmail&logoColor=white&color=8E44AD" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/listone-lucky-omito-390854281">
-    <img src="https://img.shields.io/badge/LINKEDIN-0071BC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://secure.plum.io/en/p/1PnFz0BpW33D6atqYPCPvg">
-    <img src="https://img.shields.io/badge/PLUM-Profile?style=for-the-badge&logo=googlechrome&logoColor=white&color=005A9C" alt="Plum Profile" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/MasterLee433">
-    <img src="https://img.shields.io/badge/GITHUB-MasterLee433?style=for-the-badge&logo=github&logoColor=white&color=002244" alt="GitHub" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:0071BC&height=46&section=header&text=%F0%9F%91%8B%20ABOUT%20ME&fontSize=20&fontColor=FFFFFF&font=Montserrat" width="100%"/>
 </div>
 
-<br/>
+### 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗟𝗶𝘀𝘁𝗼𝗻𝗲 𝗟𝘂𝗰𝗸𝘆 𝗢𝗺𝗶𝘁𝗼
 
----
-
-### 👋 Hello, I'm Listone Lucky Omito
-
-I'm a **Data Analyst** and **Analytics Engineer** with a strong foundation in Statistics & Computer Science, working across business intelligence, data analytics, credit & risk analytics, and data engineering.
+I'm a **Data Analyst and Analytics Engineer** with a foundation in **Statistics & Computer Science**, working across business intelligence, data analytics, credit & risk analytics, and data engineering.
 
 I enjoy taking complex or fragmented data and turning it into something useful:
 
 <div align="center">
 
-`DATA` ➔ `ENGINEERING` ➔ `ANALYTICS` ➔ `INSIGHT` ➔ `DECISION` ➔ `IMPACT`
+**`DATA`** → **`ENGINEERING`** → **`ANALYTICS`** → **`INSIGHT`** → **`DECISION`** → **`IMPACT`**
 
 </div>
 
-My goal is to bridge the gap between business questions and reliable data systems, combining analytical thinking with modern data engineering practices.
+My goal is to bridge the gap between business questions and reliable data systems. I'm particularly interested in the path from **Data Analyst → Analytics Engineer → Data Engineer**, while keeping strong foundations in BI, statistics, and decision analytics.
 
-I'm particularly interested in the evolution from:
+> *I don't just want to analyse data. I want to help build the systems that make good analysis possible.*
+
+<br/>
 
 <div align="center">
-
-**Data Analyst ➔ Analytics Engineer ➔ Data Engineer**
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:0071BC&height=46&section=header&text=%F0%9F%93%8A%20WHAT%20I%20DO&fontSize=20&fontColor=FFFFFF&font=Montserrat" width="100%"/>
 </div>
 
-*I don't just want to analyse data. I want to help build the systems that make good analysis possible.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 📈 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+- Business & performance analytics
+- KPI development
+- Trend & variance analysis
+- Root-cause analysis
+- Statistical & predictive analytics
+- Data storytelling & decision support
 
-### 📊 What I Do
+</td>
+<td width="50%" valign="top">
 
-<table align="center" width="100%"> 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Data Analytics</h3>
-      <ul>
-        <li>Business & performance analytics</li>
-        <li>KPI development</li>
-        <li>Trend & variance analysis</li>
-        <li>Root-cause & statistical analysis</li>
-        <li>Predictive analytics & storytelling</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Business Intelligence</h3>
-      <ul>
-        <li>Power BI & Tableau</li>
-        <li>DAX & Power Query</li>
-        <li>Dashboard development</li>
-        <li>KPI frameworks & reporting automation</li>
-        <li>Executive reporting</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Analytics Engineering</h3>
-      <ul>
-        <li>SQL transformation & ETL / ELT</li>
-        <li>Data modelling & dbt</li>
-        <li>Analytics-ready datasets</li>
-        <li>Data quality & validation</li>
-        <li>Dimensional modelling</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏦 Risk & Advanced Analytics</h3>
-      <ul>
-        <li>Credit & portfolio analytics</li>
-        <li>Risk segmentation & DPD / NPL analysis</li>
-        <li>Stage migration & IFRS 9 / ECL concepts</li>
-        <li>Regression & Machine Learning</li>
-      </ul>
-    </td>
-  </tr> 
+#### 📊 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
+- Power BI · DAX · Power Query
+- Tableau
+- Dashboard development
+- KPI frameworks
+- Reporting automation
+- Executive reporting
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
+- SQL transformation
+- ETL / ELT
+- Data & dimensional modelling
+- Analytics-ready datasets
+- dbt
+- Data quality & validation
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏦 𝗥𝗶𝘀𝗸 & 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+- Credit & portfolio analytics
+- Risk segmentation
+- DPD / NPL analysis
+- Stage migration
+- IFRS 9 / ECL concepts
+- Regression & machine learning
+
+</td>
+</tr>
 </table>
 
----
-
-### 🛠️ Technology Stack
-
-#### Core Analytics & Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,git,github,vscode" /><br/><br/>
-  <img src="https://img.shields.io/badge/SQL-0071BC?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-002244?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-00AEEF?style=for-the-badge&logo=duckdb&logoColor=white"/>
-</p>
-
-#### Analytics & Data Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-#### Modern Data Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-002244?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-### 🧠 How I Approach Data
+<br/>
 
 <div align="center">
-  <table width="100%"> 
-    <tr>
-      <td align="center" width="16%"> <b>01</b><br/> 📥<br/> <b>INGEST</b><br/> <sub>Collect & Connect</sub> </td>
-      <td align="center" width="16%"> <b>02</b><br/> ⚙️<br/> <b>TRANSFORM</b><br/> <sub>Clean & Prepare</sub> </td>
-      <td align="center" width="16%"> <b>03</b><br/> 🧱<br/> <b>MODEL</b><br/> <sub>Structure & Organise</sub> </td>
-      <td align="center" width="16%"> <b>04</b><br/> ✅<br/> <b>QUALITY</b><br/> <sub>Test & Validate</sub> </td>
-      <td align="center" width="16%"> <b>05</b><br/> 📊<br/> <b>ANALYSE</b><br/> <sub>Discover & Explain</sub> </td>
-      <td align="center" width="16%"> <b>06</b><br/> 💡<br/> <b>DECIDE</b><br/> <sub>Insight ➔ Impact</sub> </td>
-    </tr> 
-  </table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:0071BC&height=46&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=20&fontColor=FFFFFF&font=Montserrat" width="100%"/>
 
-  <br/>
-  <b>Reliable Data ➔ Trusted Analytics ➔ Better Decisions</b>
+**Core Analytics & Programming**
+
+<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,git,github,vscode" alt="Core tools"/>
+
+<img src="https://img.shields.io/badge/SQL-0071BC?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-002244?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-00AEEF?style=for-the-badge&logo=duckdb&logoColor=white"/>
+
+**Analytics Engineering & Data Engineering**
+
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+**Modern Data Platform**
+
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-002244?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
 </div>
 
----
-
-### 🚀 Featured Projects
-
-#### 🔎 SQL Data Engineering Market Analysis
-A data-driven exploration of the technology skills shaping the data engineering market.
-* **Tech:** SQL · DuckDB · Data Modelling · Analytics Engineering · Git
-* **Exploring:** Skill Demand · Salary · Technology Trends · Remote Opportunities
 <br/>
-<a href="https://github.com/MasterLee433/SQL-_Data_Engineering_Projects">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0071BC?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:0071BC&height=46&section=header&text=%F0%9F%A7%A0%20HOW%20I%20APPROACH%20DATA&fontSize=20&fontColor=FFFFFF&font=Montserrat" width="100%"/>
+
+<table>
+<tr>
+<td align="center" width="16%">📥<br/><b>INGEST</b><br/><sub>Collect & Connect</sub></td>
+<td align="center" width="16%">⚙️<br/><b>TRANSFORM</b><br/><sub>Clean & Prepare</sub></td>
+<td align="center" width="16%">🧱<br/><b>MODEL</b><br/><sub>Structure & Organise</sub></td>
+<td align="center" width="16%">✅<br/><b>QUALITY</b><br/><sub>Test & Validate</sub></td>
+<td align="center" width="16%">📊<br/><b>ANALYSE</b><br/><sub>Discover & Explain</sub></td>
+<td align="center" width="16%">💡<br/><b>DECIDE</b><br/><sub>Insight → Impact</sub></td>
+</tr>
+</table>
+
+**Reliable Data → Trusted Analytics → Better Decisions**
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:0071BC&height=46&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=20&fontColor=FFFFFF&font=Montserrat" width="100%"/>
+</div>
+
+#### 🔎 𝗦𝗤𝗟 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗠𝗮𝗿𝗸𝗲𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+A data-driven exploration of the technology skills shaping the data engineering market: **skill demand · salary · technology trends · remote opportunities**.
+
+`SQL` `DuckDB` `Data Modelling` `Analytics Engineering` `Git`
+
+<a href="https://github.com/MasterLee433/SQL-_Data_Engineering_Projects"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0071BC?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+#### 🏦 𝗖𝗿𝗲𝗱𝗶𝘁 & 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+Understanding financial portfolios through **Portfolio → DPD → Stage Migration → NPL → Recoveries → Risk**.
+
+`SQL` `Power BI` `DAX` `Python` `Statistics`
+
+#### 📊 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+Turning operational data into decision-ready intelligence: **KPIs → Performance → Bottlenecks → Trends → Insights → Decisions**.
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:0071BC&height=46&section=header&text=%F0%9F%8E%93%20LEARNING%20%26%20DEVELOPMENT&fontSize=20&fontColor=FFFFFF&font=Montserrat" width="100%"/>
+</div>
+
+| | |
+|---|---|
+| 🎓 **BSc, Statistics & Computer Science** | 📊 **Google Data Analytics Professional Certificate** |
+| 🐍 **Python for Data Science** | 🤖 **Data Science & Machine Learning** |
+| ⚙️ **IBM Data Engineering** | 🚀 **Now strengthening:** SQL · Data Modelling · Analytics Engineering · Cloud |
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:0071BC&height=46&section=header&text=%F0%9F%92%A1%20WHAT%20I'M%20BUILDING%20TOWARD&fontSize=20&fontColor=FFFFFF&font=Montserrat" width="100%"/>
+
+**ANALYSING DATA** ➜ **ENGINEERING TRUSTED DATA** ➜ **BUILDING DECISION SYSTEMS**
+
+*Business Understanding + Statistics + Analytics + Engineering + Technology*
+to build data products that create measurable impact.
+
+<br/>
+
+<a href="https://github.com/MasterLee433?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-002244?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:omitolucky@gmail.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0071BC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-#### 🏦 Credit & Portfolio Analytics
-Analytical work focused on understanding financial portfolios through risk tracking:
-<div align="center">
-
-`Portfolio` ➔ `DPD` ➔ `Stage Migration` ➔ `NPL` ➔ `Recoveries` ➔ `Risk`
-
-</div>
-* **Tech:** SQL · Power BI · DAX · Python · Statistics
+<img src="https://komarev.com/ghpvc/?username=MasterLee433&label=PROFILE%20VIEWS&color=0071BC&style=for-the-badge"/>
 
 <br/>
 
-#### 📊 Business Intelligence Analytics
-Building analytical solutions focused on transforming operational data into clear, decision-ready intelligence:
-<div align="center">
+*Observe · Learn · Grow · Love*
 
-`KPIs` ➔ `Performance` ➔ `Bottlenecks` ➔ `Trends` ➔ `Insights` ➔ `Decisions`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071BC,50:00AEEF,100:002244&height=100&section=footer"/>
 
-</div>
-
----
-
-### 🎓 Education & Certifications
-
-<table align="center" width="100%"> 
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Academic Foundation</h4>
-      <b>BSc — Statistics & Computer Science</b><br/>
-      <sub>Statistics · Mathematics · Programming · Data Analysis</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Analytics</h4>
-      <b>Google Data Analytics Professional</b><br/>
-      <sub>SQL · Spreadsheets · R · Tableau · Data Visualisation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐍 Programming</h4>
-      <b>Python for Data Science</b><br/>
-      <sub>Data Manipulation · Analysis · Automation</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 Data Science</h4>
-      <b>Data Science & Machine Learning</b><br/>
-      <sub>Statistics · ML · Predictive Modelling</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Data Engineering</h4>
-      <b>IBM Data Engineering</b><br/>
-      <sub>SQL · Python · Databases · ETL · Data Pipelines</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Continuous Development</h4>
-      <b>Current Focus</b><br/>
-      <sub>SQL · Data Modelling · dbt · Cloud (GCP/AWS)</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasterLee433&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLee433&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
-<br/>
-
-<!-- FOOTER & COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MasterLee433&label=PROFILE%20VIEWS&color=0071BC&style=for-the-badge"/>
-
-  <br/><br/>
-
-  <a href="https://github.com/MasterLee433?tab=repositories"> 
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-002244?style=for-the-badge&logo=github&logoColor=white"/> 
-  </a>
-  &nbsp;
-  <a href="mailto:omitolucky@gmail.com"> 
-    <img src="https://img.shields.io/badge/LET'S%20CONNECT-Plum?style=for-the-badge&logo=gmail&logoColor=white&color=8E44AD"/> 
-  </a>
-
-  <br/><br/>
-  <i>Observe · Learn · Grow · Love</i>
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071BC,50:00AEEF,100:002244&height=100&section=footer"/>
 </div>
