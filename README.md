@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002244,40:005A9C,75:0071BC,100:00AEEF&height=200&section=header&text=Listone%20Lucky%20Omito&fontSize=44&fontColor=FFFFFF&font=Montserrat&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Analytics%20Engineer%20%C2%B7%20BI%20%C2%B7%20Data%20Engineering&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002244,40:005A9C,75:0071BC,100:00AEEF&height=150&section=header&text=Listone%20Lucky%20Omito&fontSize=44&fontColor=FFFFFF&font=Montserrat&fontAlignY=40&desc=Data%20Analyst%20%C2%B7%20Analytics%20Engineer%20%C2%B7%20BI%20%C2%B7%20Data%20Engineering&descSize=16&descAlignY=66&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&pause=1200&color=00AEEF&center=true&vCenter=true&width=760&lines=Turning+Data+into+Decisions;Building+Analytics-Ready+Data+Systems;SQL+%7C+Python+%7C+Power+BI+%7C+dbt;Business+Intelligence+%7C+Risk+Analytics+%7C+Data+Engineering" alt="Typing intro"/>
-
-<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&pause=1200&color=00AEEF&center=true&vCenter=true&width=760&height=34&lines=Turning+Data+into+Decisions;Building+Analytics-Ready+Data+Systems;SQL+%7C+Python+%7C+Power+BI+%7C+dbt;Business+Intelligence+%7C+Risk+Analytics+%7C+Data+Engineering" alt="Typing intro"/>
 
 <a href="mailto:omitolucky@gmail.com"><img src="https://img.shields.io/badge/EMAIL-002244?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://secure.plum.io/en/p/1PnFz0BpW33D6atqYPCPvg"><img src="https://img.shields.io/badge/PLUM-005A9C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Plum"/></a>
@@ -41,7 +39,9 @@ My goal is to bridge the gap between business questions and reliable data system
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:0071BC&height=46&section=header&text=%F0%9F%93%8A%20WHAT%20I%20DO&fontSize=20&fontColor=FFFFFF&font=Montserrat" width="100%"/>
 </div>
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -91,6 +91,8 @@ My goal is to bridge the gap between business questions and reliable data system
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
